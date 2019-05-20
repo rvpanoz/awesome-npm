@@ -97,7 +97,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [cloudsmith](https://cloudsmith.io/l/npm-registry/) - A fully managed package management SaaS with support for public and private npm registries (and many others).
 
 ### Other
-
+- [luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
 - [david](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
